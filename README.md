@@ -11,7 +11,6 @@ This project is a simple JavaScript-based calculator that allows users to perfor
 - [Configuration](#configuration)
 - [Documentation](#documentation)
 - [Examples](#examples)
-- [Troubleshooting](#troubleshooting)
 - [Contributors](#contributors)
 - [License](#license)
 
@@ -71,13 +70,6 @@ buttons.forEach(btn => {
     });
 });
 ```
-
-## Troubleshooting
-
-If you encounter issues with the calculator:
-- Ensure your browser is up-to-date.
-- Check the console for any JavaScript errors.
-- Verify that all files are correctly linked in your HTML document.
 
 ## Contributors
 
