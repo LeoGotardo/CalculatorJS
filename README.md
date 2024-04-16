@@ -19,7 +19,7 @@ This project is a simple JavaScript-based calculator that allows users to perfor
 To install this calculator, simply clone the repository to your local machine:
 
 ```bash
-git clone https://https://github.com/LeoGotardo/CalculatorJS/
+git clone https://github.com/LeoGotardo/CalculatorJS/
 cd path-to-your-project
 ```
 
