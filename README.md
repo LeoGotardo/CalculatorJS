@@ -20,7 +20,7 @@ To install this calculator, simply clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/LeoGotardo/CalculatorJS/
-cd path-to-your-project
+cd CalculatorJS
 ```
 
 Open the `index.html` file in a web browser to start using the calculator.
